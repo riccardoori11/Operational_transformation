@@ -16,3 +16,9 @@ Different relationships :
 - Insertion - Insertion
 - Insertion - Deletion
 - Deletion - Deletion
+
+
+Sources:
+https://github.com/kingdion/wordsmiths/blob/master/wordsmiths/ot.py
+https://fitzgen.com/2011/04/05/operational-transformation-operations.html
+High Latency, Low-Bandwidth Windowing in the Jupiter Collaboration System by David A. Nichols, Pavel Curtis, Michael Dixon, and John Lamping.
